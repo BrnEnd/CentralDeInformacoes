@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projetos\\CentralDeInformacoesAPI\\Application\\Application.csproj": {}
+    "D:\\Projetos\\CentralDeInformacoesAPI\\CentralDeInformacoesAPI\\CentralDeInformacoesAPI.csproj": {}
   },
   "projects": {
-    "D:\\Projetos\\CentralDeInformacoesAPI\\Application\\Application.csproj": {
+    "D:\\Projetos\\CentralDeInformacoesAPI\\CentralDeInformacoesAPI\\CentralDeInformacoesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projetos\\CentralDeInformacoesAPI\\Application\\Application.csproj",
-        "projectName": "Application",
-        "projectPath": "D:\\Projetos\\CentralDeInformacoesAPI\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\Projetos\\CentralDeInformacoesAPI\\CentralDeInformacoesAPI\\CentralDeInformacoesAPI.csproj",
+        "projectName": "CentralDeInformacoesAPI",
+        "projectPath": "D:\\Projetos\\CentralDeInformacoesAPI\\CentralDeInformacoesAPI\\CentralDeInformacoesAPI.csproj",
         "packagesPath": "C:\\Users\\Bruno Alexandrino\\.nuget\\packages\\",
-        "outputPath": "D:\\Projetos\\CentralDeInformacoesAPI\\Application\\obj\\",
+        "outputPath": "D:\\Projetos\\CentralDeInformacoesAPI\\CentralDeInformacoesAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\SDK\\NuGetPackages"
@@ -45,17 +45,13 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "MediatR": {
-              "target": "Package",
-              "version": "[11.0.0, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[6.0.10, )"
-            },
             "Serilog.Sinks.ILogger": {
               "target": "Package",
               "version": "[1.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
             }
           },
           "imports": [
@@ -70,6 +66,9 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

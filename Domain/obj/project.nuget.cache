@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DwzcGDmGn0IdC0suZrp9VwDLqPSj7wZ4r6+Khjw0gK1bEjy7wY26SWrVUGcvOO4G6PTuFJQcX9DmbtuXKmTaog==",
+  "dgSpecHash": "N4YXLOA1usmrj0mlDO6zz3iMESXc+e+fJBE5ZPeQAXZ4p4bAqF/JGjyOsUpT06dE5GjGm9jVf4IKaunrp6FzqQ==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\CentralDeInformacoes\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\Projetos\\CentralDeInformacoesAPI\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

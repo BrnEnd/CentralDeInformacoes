@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\CentralDeInformacoes\\Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\Projetos\\CentralDeInformacoesAPI\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\Projetos\\CentralDeInformacoes\\Domain\\Domain.csproj",
+      "projectPath": "D:\\Projetos\\CentralDeInformacoesAPI\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Bruno Alexandrino\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\CentralDeInformacoes\\Domain\\obj\\",
+      "outputPath": "D:\\Projetos\\CentralDeInformacoesAPI\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\SDK\\NuGetPackages"
